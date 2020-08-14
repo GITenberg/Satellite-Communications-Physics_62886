@@ -1,0 +1,29 @@
+_repo: Satellite-Communications-Physics_62886
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Foster, R. M. (Ronald Martin)
+    aliases:
+    - Foster, Ronald M. (Ronald Martin)
+    - Foster, Ronald Martin
+    birthdate: 1896
+    deathdate: 1998
+    gutenberg_agent_id: '52174'
+    url: http://www.gutenberg.org/2009/agents/52174
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_M._Foster
+description: ''
+gutenberg_issued: '2020-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62886'
+  lccn: '63021667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TK'
+- !lcsh 'Artificial satellites in telecommunication'
+- GITenberg
+title: Satellite Communications Physics
+url: http://www.gutenberg.org/ebooks/62886
